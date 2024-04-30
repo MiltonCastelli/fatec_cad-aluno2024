@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Fabio Leal",
+      "course": "Violão"
+    },
+    {
+      "id": 2,
+      "title": "Vanessa Cristina",
+      "course": "Bateria"
+    },
+    {
+      "id": 3,
+      "title": "Lucas Barbosa",
+      "course": "Saxofone"
+    },
+    {
+      "id": "4",
+      "name": "marcos",
+      "course": "letras"
+    }
+  ]
+}
